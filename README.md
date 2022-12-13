@@ -1,6 +1,7 @@
 # Proyecto_tuneado_programacion.
+
 ![image](https://user-images.githubusercontent.com/119825521/207254519-40127c25-d59a-4eda-8929-d5516556830a.png)
-UNIVERSIDAD DE COLIMA
+*UNIVERSIDAD DE COLIMA*
 Facultad de Ingeniería Civil
 Ingeniero Topógrafo Geomático
 Curso:
